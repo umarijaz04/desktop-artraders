@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Verona" GeneratedClassName="DateSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="daily_date" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">2018-03-02</Value>
+    </Setting>
+    <Setting Name="exp_date" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">2018-12-31</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,900 @@
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\bin\Debug\AliTraders.exe.config
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.exe
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.pdb
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\bin\Debug\AliTraders.mdf
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\bin\Debug\AliTraders_log.ldf
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\bin\Debug\AliTraders.exe
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\bin\Debug\AliTraders.pdb
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.csprojResolveAssemblyReference.cache
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.AboutUs.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Add_Cheque.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Cart.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Cash_Report.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Cheque.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Cheque_Report.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Customer_Report.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Customer_Transactions.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Customer.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Expenses_Report.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Invoice_Detail.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Login.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Main.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Manufacturer.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Manufacturer_Report.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Manufacturer_Transaction.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Office_Expenses.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.order_detail.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Order_List.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Personal_Report.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Products.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Profit_Report.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Properties.Resources.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Purchases_Report.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Purchases_Detail.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Quantity_Limit.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Reports.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Sales_Invoices.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Sales_Return_Report.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Sales_Return.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Sales_Return_Detail.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Settings.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Stock.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.csproj.GenerateResource.Cache
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\bin\Debug\AliTraders.exe.config
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.exe
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.pdb
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\bin\Debug\AliTraders.mdf
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\bin\Debug\AliTraders_log.ldf
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\bin\Debug\AliTraders.exe
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\bin\Debug\AliTraders.pdb
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.csprojResolveAssemblyReference.cache
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.AboutUs.resources
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Add_Cheque.resources
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Cart.resources
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Cash_Report.resources
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Cheque.resources
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Cheque_Report.resources
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.China_Report.resources
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Customer_Report.resources
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Customer_Transactions.resources
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Customer.resources
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Expenses_Report.resources
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Invoice_Detail.resources
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Login.resources
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Main.resources
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Manufacturer.resources
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Manufacturer_Report.resources
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Manufacturer_Transaction.resources
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Office_Expenses.resources
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.order_detail.resources
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Order_List.resources
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Personal_Report.resources
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Products.resources
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Profit_Report.resources
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Properties.Resources.resources
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Purchases_Report.resources
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Purchases_Detail.resources
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Quantity_Limit.resources
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Reports.resources
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Sales_Invoices.resources
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Sales_Return_Report.resources
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Sales_Return.resources
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Sales_Return_Detail.resources
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Settings.resources
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Stock.resources
+C:\Users\umari\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.csproj.GenerateResource.Cache
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\bin\Debug\AliTraders.mdf
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\bin\Debug\AliTraders_log.ldf
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.csprojResolveAssemblyReference.cache
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.csproj.GenerateResource.Cache
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Estimated_Sales.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Breakage_Items.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Breakage_Items_Detail.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Fake.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Fake_Detail.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Cart2.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.order_detail2.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Order_List2.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Products2.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Sales_Return2.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Stock2.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Breakage_Items2.resources
+C:\Users\princ\Documents\Visual Studio 2013\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.Breakage_Items_Detail2.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\bin\Debug\UF.dll
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\bin\Debug\UF.pdb
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\bin\Debug\Verona.exe.config
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\bin\Debug\Verona.exe
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\bin\Debug\Verona.pdb
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Properties.Resources.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.exe
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.pdb
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.AboutUs.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Add_Cheque.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Breakage_Items.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Breakage_Items_Detail.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Cart.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Cash_Report.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Cheque.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Cheque_Report.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Customer_Report.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Customer_Transactions.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Customer.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Estimated_Sales.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Expenses_Report.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Fake.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Fake_Detail.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Invoice_Detail.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Login.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Main.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Manufacturer.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Manufacturer_Report.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Manufacturer_Transaction.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Office_Expenses.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.order_detail.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Order_List.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Personal_Report.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Products.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Profit_Report.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Report.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Detail.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Quantity_Limit.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Sales_Invoices.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return_Report.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return_Detail.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Settings.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Stock.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Payable.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Receivable.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\bin\Debug\Verona.exe.config
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.exe
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.pdb
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\bin\Debug\Verona.exe
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\bin\Debug\Verona.pdb
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\bin\Debug\UF.pdb
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.csprojResolveAssemblyReference.cache
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.AboutUs.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Add_Cheque.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Breakage_Items.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Breakage_Items_Detail.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Cart.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Cash_Report.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Cheque.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Cheque_Report.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Customer_Report.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Customer_Transactions.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Customer.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Estimated_Sales.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Expenses_Report.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Fake.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Fake_Detail.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Invoice_Detail.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Login.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Main.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Manufacturer.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Office_Expenses.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.order_detail.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Order_List.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Payable.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Personal_Report.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Products.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Profit_Report.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Properties.Resources.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Report.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Detail.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Quantity_Limit.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Receivable.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Sales_Invoices.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return_Report.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return_Detail.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Settings.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Stock.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.csproj.GenerateResource.Cache
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Available_Stock.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Sales_Summary.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Summary.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return_Summary.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Sales.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Purchases.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Sales_Return.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Breakage.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.DC_Wise_Breakage.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Breakage_Detail.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Available_Detail.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Available_Detail.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Available_Stock.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Breakage_Detail.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.DC_Wise_Breakage.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Breakage.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Purchases.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Sales_Return.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Sales.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Summary.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return_Summary.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Sales_Summary.resources
+C:\Users\umari\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\bin\Debug\Verona.exe.config
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.exe
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.pdb
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\bin\Debug\Verona.exe
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\bin\Debug\Verona.pdb
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\bin\Debug\UF.dll
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\bin\Debug\UF.pdb
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.csprojResolveAssemblyReference.cache
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.AboutUs.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Add_Cheque.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Available_Detail.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Available_Stock.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Breakage_Detail.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Breakage_Items.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Breakage_Items_Detail.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Cart.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Cash_Report.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Cheque.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Cheque_Report.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Customer_Report.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Customer_Transactions.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Customer.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.DC_Wise_Breakage.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Estimated_Sales.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Expenses_Report.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Fake.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Fake_Detail.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Invoice_Detail.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Login.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Main.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Manufacturer.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Office_Expenses.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.order_detail.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Order_List.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Payable.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Personal_Report.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Breakage.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Purchases.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Sales_Return.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Sales.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Products.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Profit_Report.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Properties.Resources.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Summary.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Report.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Detail.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Quantity_Limit.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Receivable.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return_Summary.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Sales_Summary.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Sales_Invoices.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return_Report.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return_Detail.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Settings.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Stock.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.csproj.GenerateResource.Cache
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Return.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Return_Summary.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Purchases_Return.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Return_Report.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Return_Detail.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Expenses.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Direct_Expenses_Detail.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Expenses.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Direct_Expenses_Detail.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Purchases_Return.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Return_Summary.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Return.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Return_Report.resources
+C:\Users\princ\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Return_Detail.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\bin\Debug\VeronaTilesDB.mdf
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\bin\Debug\VeronaTilesDB_log.ldf
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\bin\Debug\Verona.exe.config
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.exe
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.pdb
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\bin\Debug\VeronaTilesDB.mdf
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\bin\Debug\VeronaTilesDB_log.ldf
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\bin\Debug\Verona.exe
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\bin\Debug\Verona.pdb
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\bin\Debug\UF.dll
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\bin\Debug\UF.pdb
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.csprojResolveAssemblyReference.cache
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.AboutUs.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Add_Cheque.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Available_Detail.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Available_Stock.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Breakage_Detail.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Breakage_Items.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Breakage_Items_Detail.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Cart.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Cash_Report.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Cheque.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Cheque_Report.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Expenses.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Customer_Report.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Customer_Transactions.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Customer.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.DC_Wise_Breakage.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Estimated_Sales.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Expenses_Report.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Fake.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Fake_Detail.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Invoice_Detail.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Login.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Main.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Manufacturer.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Office_Expenses.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.order_detail.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Order_List.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Direct_Expenses_Detail.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Payable.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Personal_Report.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Breakage.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Purchases.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Purchases_Return.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Sales_Return.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Sales.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Products.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Profit_Report.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Properties.Resources.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Summary.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Report.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Detail.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Quantity_Limit.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Receivable.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Return_Summary.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return_Summary.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Sales_Summary.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Sales_Invoices.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Return.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Return_Report.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Return_Detail.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return_Report.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return_Detail.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Settings.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Stock.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.csproj.GenerateResource.Cache
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\bin\Debug\Verona.exe.config
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.exe
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.pdb
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\bin\Debug\VeronaTilesDB.mdf
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\bin\Debug\VeronaTilesDB_log.ldf
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\bin\Debug\Verona.exe
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\bin\Debug\Verona.pdb
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\bin\Debug\UF.dll
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\bin\Debug\UF.pdb
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.csprojResolveAssemblyReference.cache
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.AboutUs.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Add_Cheque.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Available_Detail.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Available_Stock.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Breakage_Detail.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Breakage_Items.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Breakage_Items_Detail.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Cart.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Cash_Report.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Cheque.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Cheque_Report.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Expenses.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Customer_Report.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Customer_Transactions.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Customer.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.DC_Wise_Breakage.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Estimated_Sales.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Expenses_Report.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Fake.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Fake_Detail.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Invoice_Detail.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Login.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Main.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Manufacturer.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Office_Expenses.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.order_detail.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Order_List.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Direct_Expenses_Detail.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Payable.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Personal_Report.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Breakage.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Purchases.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Purchases_Return.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Sales_Return.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Sales.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Products.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Profit_Report.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Properties.Resources.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Summary.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Report.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Detail.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Quantity_Limit.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Receivable.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Return_Summary.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return_Summary.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Sales_Summary.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Sales_Invoices.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Return.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Return_Report.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Return_Detail.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return_Report.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return_Detail.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Settings.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\Verona.Stock.resources
+C:\Users\Umar Ijaz\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\obj\Debug\AliTraders.csproj.GenerateResource.Cache
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\AliTraders\AliTraders\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\bin\Debug\Verona.exe.config
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.exe
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.pdb
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\bin\Debug\VeronaTilesDB.mdf
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\bin\Debug\VeronaTilesDB_log.ldf
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\bin\Debug\Verona.exe
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\bin\Debug\Verona.pdb
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\bin\Debug\UF.pdb
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\AliTraders.csprojResolveAssemblyReference.cache
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.AboutUs.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Add_Cheque.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Available_Detail.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Available_Stock.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Breakage_Detail.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Breakage_Items.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Breakage_Items_Detail.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Cart.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Cash_Report.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Cheque.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Cheque_Report.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Expenses.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Customer_Report.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Customer_Transactions.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Customer.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.DC_Wise_Breakage.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Estimated_Sales.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Expenses_Report.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Fake.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Fake_Detail.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Invoice_Detail.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Login.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Main.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Manufacturer.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Office_Expenses.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.order_detail.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Order_List.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Direct_Expenses_Detail.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Payable.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Personal_Report.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Breakage.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Purchases.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Purchases_Return.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Sales_Return.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Sales.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Products.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Profit_Report.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Properties.Resources.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Summary.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Report.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Detail.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Quantity_Limit.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Receivable.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Return_Summary.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return_Summary.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Sales_Summary.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Sales_Invoices.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Return.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Return_Report.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Return_Detail.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return_Report.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return_Detail.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Settings.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Stock.resources
+C:\Users\umari\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\AliTraders.csproj.GenerateResource.Cache
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\bin\Debug\Verona.exe.config
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.exe
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.pdb
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\bin\Debug\VeronaTilesDB.mdf
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\bin\Debug\VeronaTilesDB_log.ldf
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\bin\Debug\Verona.exe
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\bin\Debug\Verona.pdb
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\bin\Debug\UF.pdb
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\AliTraders.csprojResolveAssemblyReference.cache
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.AboutUs.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Add_Cheque.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Available_Detail.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Available_Stock.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Breakage_Detail.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Breakage_Items.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Breakage_Items_Detail.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Cart.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Cash_Report.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Cheque.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Cheque_Report.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Expenses.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Customer_Report.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Customer_Transactions.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Customer.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.DC_Wise_Breakage.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Estimated_Sales.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Expenses_Report.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Fake.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Fake_Detail.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Invoice_Detail.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Login.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Main.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Manufacturer.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Office_Expenses.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.order_detail.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Order_List.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Direct_Expenses_Detail.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Payable.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Personal_Report.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Breakage.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Purchases.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Purchases_Return.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Sales_Return.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Sales.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Products.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Profit_Report.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Properties.Resources.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Summary.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Report.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Detail.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Quantity_Limit.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Receivable.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Return_Summary.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return_Summary.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Sales_Summary.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Sales_Invoices.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Return.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Return_Report.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Return_Detail.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return_Report.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return_Detail.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Settings.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Stock.resources
+D:\One Drive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\AliTraders.csproj.GenerateResource.Cache
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\bin\Debug\Verona.exe.config
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.exe
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.pdb
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\bin\Debug\VeronaTilesDB.mdf
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\bin\Debug\VeronaTilesDB_log.ldf
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\bin\Debug\Verona.exe
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\bin\Debug\Verona.pdb
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\bin\Debug\UF.pdb
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\AliTraders.csprojResolveAssemblyReference.cache
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.AboutUs.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Add_Cheque.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Available_Detail.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Available_Stock.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Breakage_Detail.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Breakage_Items.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Breakage_Items_Detail.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Cart.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Cash_Report.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Cheque.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Cheque_Report.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Expenses.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Customer_Report.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Customer_Transactions.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Customer.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.DC_Wise_Breakage.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Estimated_Sales.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Expenses_Report.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Fake.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Fake_Detail.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Invoice_Detail.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Login.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Main.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Manufacturer.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Office_Expenses.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.order_detail.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Order_List.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Direct_Expenses_Detail.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Payable.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Personal_Report.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Breakage.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Purchases.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Purchases_Return.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Sales_Return.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Sales.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Products.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Profit_Report.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Properties.Resources.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Summary.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Report.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Detail.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Quantity_Limit.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Receivable.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Return_Summary.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return_Summary.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Sales_Summary.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Sales_Invoices.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Return.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Return_Report.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Return_Detail.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return_Report.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return_Detail.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Settings.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Stock.resources
+C:\Users\uijaz\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\AliTraders.csproj.GenerateResource.Cache
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\bin\Debug\VeronaTilesDB.mdf
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\bin\Debug\VeronaTilesDB_log.ldf
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\bin\Debug\Verona.exe.config
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\bin\Debug\Verona.exe
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\bin\Debug\Verona.pdb
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\bin\Debug\UF.pdb
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\AliTraders.csprojAssemblyReference.cache
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.AboutUs.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Add_Cheque.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Available_Detail.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Available_Stock.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Breakage_Detail.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Breakage_Items.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Breakage_Items_Detail.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Cart.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Cash_Report.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Cheque.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Cheque_Report.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Expenses.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Customer_Report.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Customer_Transactions.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Customer.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.DC_Wise_Breakage.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Estimated_Sales.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Expenses_Report.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Fake.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Fake_Detail.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Invoice_Detail.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Login.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Main.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Manufacturer.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Office_Expenses.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.order_detail.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Order_List.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Direct_Expenses_Detail.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Payable.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Personal_Report.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Breakage.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Purchases.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Purchases_Return.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Sales_Return.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Sales.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Products.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Profit_Report.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Properties.Resources.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Summary.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Report.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Detail.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Quantity_Limit.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Receivable.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Return_Summary.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return_Summary.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Sales_Summary.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Sales_Invoices.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Return.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Return_Report.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Return_Detail.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return_Report.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return_Detail.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Settings.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Stock.resources
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\AliTraders.csproj.GenerateResource.cache
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\AliTraders.csproj.CoreCompileInputs.cache
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\AliTraders.csproj.CopyComplete
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.exe
+C:\Users\Umar\OneDrive\Documents\Visual Studio 2015\Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.pdb
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\bin\Debug\VeronaTilesDB.mdf
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\bin\Debug\VeronaTilesDB_log.ldf
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\bin\Debug\Verona.exe.config
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\bin\Debug\Verona.exe
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\bin\Debug\Verona.pdb
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\bin\Debug\UF.pdb
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\AliTraders.csprojAssemblyReference.cache
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.AboutUs.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Add_Cheque.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Available_Detail.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Available_Stock.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Breakage_Detail.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Breakage_Items.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Breakage_Items_Detail.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Cart.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Cash_Report.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Cheque.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Cheque_Report.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Expenses.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Customer_Report.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Customer_Transactions.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Customer.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.DC_Wise_Breakage.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Estimated_Sales.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Expenses_Report.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Fake.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Fake_Detail.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Invoice_Detail.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Login.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Main.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Manufacturer.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Office_Expenses.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.order_detail.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Order_List.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Direct_Expenses_Detail.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Payable.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Personal_Report.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Breakage.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Purchases.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Purchases_Return.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Sales_Return.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Sales.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Products.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Profit_Report.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Properties.Resources.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Summary.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Report.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Detail.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Quantity_Limit.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Receivable.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Return_Summary.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return_Summary.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Sales_Summary.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Sales_Invoices.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Return.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Return_Report.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Return_Detail.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return_Report.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return_Detail.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Settings.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.Stock.resources
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\AliTraders.csproj.GenerateResource.cache
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\AliTraders.csproj.CoreCompileInputs.cache
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\AliTraders.csproj.CopyComplete
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.exe
+C:\Users\Umar\OneDrive\VS Projects\Verona\AliTraders\AliTraders\obj\Debug\Verona.pdb
+C:\Users\inbox\source\repos\AliTraders\AliTraders\bin\Debug\Verona.exe.config
+C:\Users\inbox\source\repos\AliTraders\AliTraders\bin\Debug\Verona.exe
+C:\Users\inbox\source\repos\AliTraders\AliTraders\bin\Debug\Verona.pdb
+C:\Users\inbox\source\repos\AliTraders\AliTraders\bin\Debug\UF.pdb
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\AliTraders.csprojAssemblyReference.cache
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.AboutUs.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Add_Cheque.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Available_Detail.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Available_Stock.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Breakage_Detail.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Breakage_Items.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Breakage_Items_Detail.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Cart.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Cash_Report.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Cheque.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Cheque_Report.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Expenses.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Customer_Report.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Customer_Transactions.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Customer.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.DC_Wise_Breakage.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Estimated_Sales.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Expenses_Report.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Fake.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Fake_Detail.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Invoice_Detail.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Login.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Main.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Manufacturer.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Office_Expenses.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.order_detail.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Order_List.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Direct_Expenses_Detail.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Payable.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Personal_Report.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Breakage.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Purchases.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Purchases_Return.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Sales_Return.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Product_Wise_Sales.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Products.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Profit_Report.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Properties.Resources.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Summary.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Report.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Detail.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Quantity_Limit.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Receivable.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Return_Summary.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return_Summary.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Sales_Summary.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Sales_Invoices.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Return.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Return_Report.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Purchases_Return_Detail.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return_Report.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Sales_Return_Detail.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Settings.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.Stock.resources
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\AliTraders.csproj.GenerateResource.cache
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\AliTraders.csproj.CoreCompileInputs.cache
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\AliTraders.csproj.CopyComplete
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.exe
+C:\Users\inbox\source\repos\AliTraders\AliTraders\obj\Debug\Verona.pdb
+C:\Users\inbox\source\repos\AliTraders\AliTraders\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\inbox\source\repos\AliTraders\AliTraders\bin\Debug\System.Security.AccessControl.dll
+C:\Users\inbox\source\repos\AliTraders\AliTraders\bin\Debug\System.Security.Permissions.dll
+C:\Users\inbox\source\repos\AliTraders\AliTraders\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\inbox\source\repos\AliTraders\AliTraders\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\inbox\source\repos\AliTraders\AliTraders\bin\Debug\System.Security.AccessControl.xml
+C:\Users\inbox\source\repos\AliTraders\AliTraders\bin\Debug\System.Security.Permissions.xml
+C:\Users\inbox\source\repos\AliTraders\AliTraders\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\inbox\source\repos\AliTraders\AliTraders\bin\Debug\UF.dll
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\bin\Debug\System.Security.AccessControl.dll
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\bin\Debug\System.Security.Permissions.dll
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\bin\Debug\UF.dll
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\bin\Debug\System.Security.AccessControl.xml
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\bin\Debug\System.Security.Permissions.xml
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\bin\Debug\UF.pdb
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\AliTraders.csprojAssemblyReference.cache
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.AboutUs.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Add_Cheque.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Available_Detail.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Available_Stock.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Breakage_Detail.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Breakage_Items.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Breakage_Items_Detail.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Cart.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Cash_Report.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Cheque.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Cheque_Report.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Expenses.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Customer_Report.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Customer_Transactions.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Customer.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.DC_Wise_Breakage.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Estimated_Sales.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Expenses_Report.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Invoice_Detail.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Login.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Main.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Manufacturer.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Office_Expenses.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.order_detail.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Order_List.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Direct_Expenses_Detail.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Payable.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Personal_Report.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Product_Wise_Breakage.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Product_Wise_Purchases.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Product_Wise_Purchases_Return.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Product_Wise_Sales_Return.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Product_Wise_Sales.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Products.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Profit_Report.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Purchases_Summary.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Purchases_Report.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Purchases_Detail.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Quantity_Limit.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Receivable.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Purchases_Return_Summary.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Sales_Return_Summary.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Sales_Summary.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Sales_Invoices.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Purchases_Return.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Purchases_Return_Report.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Purchases_Return_Detail.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Sales_Return_Report.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Sales_Return.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Sales_Return_Detail.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Settings.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\Verona.Stock.resources
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\AliTraders.csproj.GenerateResource.cache
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\AliTraders.csproj.CoreCompileInputs.cache
+C:\Users\inbox\Source\Repos\WonderApp\AliTraders\obj\Debug\AliTraders.csproj.CopyComplete
+C:\Users\inbox\source\repos\WonderApp\AliTraders\obj\Debug\Wonder.Properties.Resources.resources
+C:\Users\inbox\source\repos\WonderApp\AliTraders\bin\Debug\Wonder.exe.config
+C:\Users\inbox\source\repos\WonderApp\AliTraders\bin\Debug\Wonder.exe
+C:\Users\inbox\source\repos\WonderApp\AliTraders\bin\Debug\Wonder.pdb
+C:\Users\inbox\source\repos\WonderApp\AliTraders\obj\Debug\Wonder.exe
+C:\Users\inbox\source\repos\WonderApp\AliTraders\obj\Debug\Wonder.pdb
